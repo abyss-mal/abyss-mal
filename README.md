@@ -3,7 +3,7 @@
 -        @abyss-mal
 - ╚═══*.·:·.★ ✦ ★･:･:*═══╝
 -
-- .°˖✧ hi, my name is abyss hayes! abyss or just abby is fine
+- .°˖✧ hi, my name is abyssmal belmont! abyss or just abby is fine
 - .°˖✧ i’m interested in engineering and biomedicine
 - .°˖✧ working on html, python, and javascript ;; hoping to make my own site soon
 - .°˖✧ currently not looking to collaborate on any projects
