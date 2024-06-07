@@ -4,7 +4,7 @@
 - ╚═══*.·:·.★ ✦ ★･:･:*═══╝
 -
 - .°˖✧ hi, my name is abyss hayes! abyss or just abby is fine
-- .°˖✧ i’m interested in computer science
+- .°˖✧ i’m interested in engineering and biomedicine
 - .°˖✧ working on html, python, and javascript ;; hoping to make my own site soon
 - .°˖✧ currently not looking to collaborate on any projects
 - .°˖✧ probably won't post often but happy to be here anyway <<33
